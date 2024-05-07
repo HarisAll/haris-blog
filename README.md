@@ -9,7 +9,7 @@
 
 ## Tutorial Menjalankan
 
-Jalankan `composer install` untuk menginstall package-package yang ada kemudian jalankan `php artisan serve`
+Jalankan `composer install` dan `npm install` untuk menginstall package-package yang ada kemudian jalankan `php artisan serve`
 
 
 ## License
